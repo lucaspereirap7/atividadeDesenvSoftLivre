@@ -1,8 +1,10 @@
 # Meu Repositório
 
 Este é o meu **primeiro repositório** no Github.
-Aluno: Lucas de Oliveira Pereira
-Matricula: 202210578
+
+Aluno: Lucas de Oliveira Pereira.
+
+Matricula: 202210578.
 
 Eis um trecho de código em JavaScript:
 
