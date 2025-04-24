@@ -10,6 +10,14 @@ Aluno: Lucas de Oliveira Pereira.
 
 Matricula: 202210578.
 
+## Sobre Mim
+
+- Possuo 21 anos e resido atualmente em Perdões-MG. Realizo faculdade de Sistemas de Informação na Universidade Federal de Lavras. 
+
+- Sou um profissional de desenvolvimento web e mobile, com experiência em Angular, React, React Native e PHP. Possuo conhecimento sólido em PostgreSQL, versionamento com Git/GitHub e aplicação de metodologias ágeis, como Scrum. 
+
+- Também possuo noções de UX/UI e utilizo o Figma para prototipagem. Como estudante de Sistemas de Informação na UFLA, busco inovação e aprendizado contínuo para aprimorar minhas habilidades e contribuir para projetos de impacto.
+
 Eis um trecho de código em JavaScript:
 
 ```javascript
