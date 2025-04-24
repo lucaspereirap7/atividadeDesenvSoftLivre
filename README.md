@@ -30,3 +30,19 @@ Na disciplina _GCC259 - Desenvolvimento de Software Livre_, eu irei aprender mai
 
 - [Meu GitHub](https://github.com/lucaspereirap7)
 - [Meu Linkedin](https://www.linkedin.com/in/lucasopereira/)
+
+## Experiência Profissional
+
+Atualmente trabalho na mgCode como Desenvolvedor Front-end.
+
+### Áreas de Atuação:
+
+- 💻 Desenvolvimento Web
+- 📱 Desenvolvimento Mobile
+- 🗃️ Banco de Dados
+
+### Principais Tecnologias:
+
+- JavaScript/TypeScript
+- React/React Native
+- Angular
