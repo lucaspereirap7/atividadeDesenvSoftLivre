@@ -2,6 +2,10 @@
 
 Este é o meu **primeiro repositório** no Github.
 
+<p align="center">
+  <img src="https://github.com/lucaspereirap7.png" alt="Foto do GitHub de Lucas" width="150" style="border-radius: 50%;">
+</p>
+
 Aluno: Lucas de Oliveira Pereira.
 
 Matricula: 202210578.
